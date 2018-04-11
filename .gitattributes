@@ -1,0 +1,2 @@
+*.kit filter=lfs diff=lfs merge=lfs -text
+./linux/x86_64/tclkit-8.6.8-linx-x86_64-mk4-tls-tcllib filter=lfs diff=lfs merge=lfs -text
